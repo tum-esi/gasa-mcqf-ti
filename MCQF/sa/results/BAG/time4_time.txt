@@ -1,0 +1,6 @@
+start time is in secs:
+1711921042.5599825
+stop time is in secs:
+1711921075.597003
+total runtime is in secs:
+33.037020444869995

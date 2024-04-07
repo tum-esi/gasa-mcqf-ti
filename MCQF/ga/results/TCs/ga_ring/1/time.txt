@@ -1,0 +1,300 @@
+C:\Users\rubid\anaconda3\envs\code\python.exe "D:/Supervision/Master Thesis/Selver/Codebase/GA-MCQF-Codebase/gasa_algo_trial/mcqf_master.py"
+{}
+the time of start is 1711319592.6375332
+bw_sum 900000000.0
+created_graph
+priority_group: 1
+Stream: id 39 | k_group 1 | q_n 3 | node0_0_6_0->node0_0_2_1 | period 20.0| deadline 4.024 | size 281 | injection delay: 0 ['node0_0_6_0', 'sw_0_6', 'sw_0_7', 'sw_0_0', 'sw_0_1', 'sw_0_2', 'node0_0_2_1'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 17 | k_group 1 | q_n 3 | node0_0_9_0->node0_0_2_0 | period 8.0| deadline 4.08 | size 169 | injection delay: 0 ['node0_0_9_0', 'sw_0_9', 'sw_0_10', 'sw_0_11', 'sw_0_0', 'sw_0_1', 'sw_0_2', 'node0_0_2_0'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5']
+Stream: id 0 | k_group 1 | q_n 3 | node0_0_4_1->node0_0_7_0 | period 20.0| deadline 4.168 | size 228 | injection delay: 0 ['node0_0_4_1', 'sw_0_4', 'sw_0_5', 'sw_0_6', 'sw_0_7', 'node0_0_7_0'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 47 | k_group 1 | q_n 3 | node0_0_1_0->node0_0_4_0 | period 20.0| deadline 4.192 | size 211 | injection delay: 0 ['node0_0_1_0', 'sw_0_1', 'sw_0_2', 'sw_0_3', 'sw_0_4', 'node0_0_4_0'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 18 | k_group 1 | q_n 3 | node0_0_6_1->node0_0_12_1 | period 40.0| deadline 4.448 | size 249 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'node0_0_12_1'] ['q7', 'q6', 'q5']
+Stream: id 40 | k_group 1 | q_n 3 | node0_0_15_1->node0_0_11_1 | period 20.0| deadline 4.464 | size 258 | injection delay: 0 ['node0_0_15_1', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 50 | k_group 1 | q_n 3 | node0_0_6_0->node0_0_3_0 | period 8.0| deadline 4.512 | size 137 | injection delay: 0 ['node0_0_6_0', 'sw_0_6', 'sw_0_5', 'sw_0_4', 'sw_0_3', 'node0_0_3_0'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 22 | k_group 1 | q_n 3 | node0_0_12_0->node0_0_11_1 | period 20.0| deadline 4.52 | size 178 | injection delay: 0 ['node0_0_12_0', 'sw_0_12', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6']
+Stream: id 56 | k_group 1 | q_n 3 | node0_0_8_0->node0_0_0_0 | period 8.0| deadline 4.704 | size 252 | injection delay: 0 ['node0_0_8_0', 'sw_0_8', 'sw_0_9', 'sw_0_10', 'sw_0_11', 'sw_0_0', 'node0_0_0_0'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 21 | k_group 1 | q_n 3 | node0_0_3_1->node0_0_14_0 | period 20.0| deadline 4.728 | size 168 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'sw_0_12', 'sw_0_13', 'sw_0_14', 'node0_0_14_0'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 1 | k_group 1 | q_n 3 | node0_0_15_0->node0_0_11_1 | period 20.0| deadline 4.832 | size 134 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 31 | k_group 1 | q_n 3 | node0_0_6_0->node0_0_3_0 | period 8.0| deadline 4.888 | size 243 | injection delay: 0 ['node0_0_6_0', 'sw_0_6', 'sw_0_5', 'sw_0_4', 'sw_0_3', 'node0_0_3_0'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 2 | k_group 1 | q_n 3 | node0_0_4_1->node0_0_9_1 | period 20.0| deadline 4.896 | size 265 | injection delay: 0 ['node0_0_4_1', 'sw_0_4', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_11', 'sw_0_10', 'sw_0_9', 'node0_0_9_1'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 4 | k_group 1 | q_n 3 | node0_0_6_1->node0_0_14_0 | period 40.0| deadline 4.912 | size 129 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'sw_0_13', 'sw_0_14', 'node0_0_14_0'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 33 | k_group 1 | q_n 3 | node0_0_1_0->node0_0_14_1 | period 40.0| deadline 5.064 | size 270 | injection delay: 0 ['node0_0_1_0', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'sw_0_12', 'sw_0_13', 'sw_0_14', 'node0_0_14_1'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5']
+Stream: id 28 | k_group 1 | q_n 3 | node0_0_8_0->node0_0_7_0 | period 8.0| deadline 5.072 | size 132 | injection delay: 0 ['node0_0_8_0', 'sw_0_8', 'sw_0_9', 'sw_0_10', 'sw_0_11', 'sw_0_0', 'sw_0_7', 'node0_0_7_0'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5']
+Stream: id 36 | k_group 1 | q_n 3 | node0_0_15_1->node0_0_1_1 | period 40.0| deadline 5.072 | size 254 | injection delay: 0 ['node0_0_15_1', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'sw_0_0', 'sw_0_1', 'node0_0_1_1'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5', 'q7']
+Stream: id 19 | k_group 1 | q_n 3 | node0_0_15_0->node0_0_11_1 | period 8.0| deadline 5.096 | size 141 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 26 | k_group 1 | q_n 3 | node0_0_7_1->node0_0_0_0 | period 20.0| deadline 5.104 | size 153 | injection delay: 0 ['node0_0_7_1', 'sw_0_7', 'sw_0_0', 'node0_0_0_0'] ['q7', 'q6']
+Stream: id 15 | k_group 1 | q_n 3 | node0_0_15_0->node0_0_5_0 | period 8.0| deadline 5.12 | size 126 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'sw_0_6', 'sw_0_5', 'node0_0_5_0'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5', 'q7']
+Stream: id 25 | k_group 1 | q_n 3 | node0_0_6_1->node0_0_4_0 | period 20.0| deadline 5.144 | size 126 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_5', 'sw_0_4', 'node0_0_4_0'] ['q7', 'q6', 'q5']
+Stream: id 32 | k_group 1 | q_n 3 | node0_0_3_1->node0_0_11_1 | period 20.0| deadline 5.28 | size 299 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 43 | k_group 1 | q_n 3 | node0_0_7_1->node0_0_12_1 | period 40.0| deadline 5.304 | size 273 | injection delay: 0 ['node0_0_7_1', 'sw_0_7', 'sw_0_12', 'node0_0_12_1'] ['q7', 'q6']
+Stream: id 7 | k_group 1 | q_n 3 | node0_0_4_1->node0_0_5_0 | period 40.0| deadline 5.328 | size 242 | injection delay: 0 ['node0_0_4_1', 'sw_0_4', 'sw_0_5', 'node0_0_5_0'] ['q7', 'q6']
+Stream: id 24 | k_group 1 | q_n 3 | node0_0_7_1->node0_0_2_1 | period 8.0| deadline 5.376 | size 184 | injection delay: 0 ['node0_0_7_1', 'sw_0_7', 'sw_0_0', 'sw_0_1', 'sw_0_2', 'node0_0_2_1'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 37 | k_group 1 | q_n 3 | node0_0_3_1->node0_0_8_1 | period 20.0| deadline 5.4 | size 154 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_11', 'sw_0_10', 'sw_0_9', 'sw_0_8', 'node0_0_8_1'] ['q7', 'q6', 'q5', 'q7', 'q6', 'q5', 'q7', 'q6']
+Stream: id 11 | k_group 1 | q_n 3 | node0_0_9_0->node0_0_11_1 | period 8.0| deadline 5.488 | size 262 | injection delay: 0 ['node0_0_9_0', 'sw_0_9', 'sw_0_10', 'sw_0_11', 'node0_0_11_1'] ['q7', 'q6', 'q5']
+Stream: id 54 | k_group 1 | q_n 3 | node0_0_13_0->node0_0_8_1 | period 8.0| deadline 5.544 | size 236 | injection delay: 0 ['node0_0_13_0', 'sw_0_13', 'sw_0_14', 'sw_0_15', 'sw_0_8', 'node0_0_8_1'] ['q7', 'q6', 'q5', 'q7']
+Stream: id 8 | k_group 1 | q_n 3 | node0_0_7_1->node0_0_7_0 | period 20.0| deadline 5.688 | size 172 | injection delay: 0 ['node0_0_7_1', 'sw_0_7', 'node0_0_7_0'] ['q7']
+Stream: id 46 | k_group 1 | q_n 3 | node0_0_15_0->node0_0_8_1 | period 8.0| deadline 5.696 | size 149 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_8', 'node0_0_8_1'] ['q7', 'q6']
+Stream: id 34 | k_group 1 | q_n 3 | node0_0_1_0->node0_0_0_0 | period 40.0| deadline 5.736 | size 144 | injection delay: 0 ['node0_0_1_0', 'sw_0_1', 'sw_0_0', 'node0_0_0_0'] ['q7', 'q6']
+Stream: id 41 | k_group 1 | q_n 3 | node0_0_5_1->node0_0_12_1 | period 20.0| deadline 5.8 | size 147 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'node0_0_12_1'] ['q7', 'q6', 'q5', 'q7']
+
+
+created_graph
+priority_group: 2
+Stream: id 38 | k_group 2 | q_n 2 | node0_0_5_1->node0_0_4_0 | period 20.0| deadline 3.0 | size 287 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_4', 'node0_0_4_0'] ['q4', 'q3']
+Stream: id 5 | k_group 2 | q_n 2 | node0_0_7_1->node0_0_2_1 | period 10.0| deadline 3.008 | size 174 | injection delay: 0 ['node0_0_7_1', 'sw_0_7', 'sw_0_0', 'sw_0_1', 'sw_0_2', 'node0_0_2_1'] ['q4', 'q3', 'q4', 'q3']
+Stream: id 6 | k_group 2 | q_n 2 | node0_0_8_0->node0_0_0_1 | period 4.0| deadline 3.084 | size 177 | injection delay: 0 ['node0_0_8_0', 'sw_0_8', 'sw_0_9', 'sw_0_10', 'sw_0_11', 'sw_0_0', 'node0_0_0_1'] ['q4', 'q3', 'q4', 'q3', 'q4']
+Stream: id 16 | k_group 2 | q_n 2 | node0_0_1_0->node0_0_7_0 | period 10.0| deadline 3.16 | size 185 | injection delay: 0 ['node0_0_1_0', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'node0_0_7_0'] ['q4', 'q3', 'q4']
+Stream: id 13 | k_group 2 | q_n 2 | node0_0_6_1->node0_0_12_1 | period 10.0| deadline 3.212 | size 283 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'node0_0_12_1'] ['q4', 'q3', 'q4']
+Stream: id 3 | k_group 2 | q_n 2 | node0_0_3_1->node0_0_7_0 | period 10.0| deadline 3.22 | size 209 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'node0_0_7_0'] ['q4', 'q3', 'q4', 'q3', 'q4']
+Stream: id 51 | k_group 2 | q_n 2 | node0_0_5_1->node0_0_3_0 | period 4.0| deadline 3.276 | size 290 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_4', 'sw_0_3', 'node0_0_3_0'] ['q4', 'q3', 'q4']
+Stream: id 53 | k_group 2 | q_n 2 | node0_0_5_1->node0_0_4_0 | period 10.0| deadline 3.34 | size 204 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_4', 'node0_0_4_0'] ['q4', 'q3']
+Stream: id 29 | k_group 2 | q_n 2 | node0_0_1_0->node0_0_14_0 | period 4.0| deadline 3.372 | size 229 | injection delay: 0 ['node0_0_1_0', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'sw_0_12', 'sw_0_13', 'sw_0_14', 'node0_0_14_0'] ['q4', 'q3', 'q4', 'q3', 'q4', 'q3']
+Stream: id 35 | k_group 2 | q_n 2 | node0_0_6_1->node0_0_0_0 | period 10.0| deadline 3.38 | size 239 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_7', 'sw_0_0', 'node0_0_0_0'] ['q4', 'q3', 'q4']
+Stream: id 45 | k_group 2 | q_n 2 | node0_0_5_1->node0_0_2_0 | period 20.0| deadline 3.396 | size 144 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_4', 'sw_0_3', 'sw_0_2', 'node0_0_2_0'] ['q4', 'q3', 'q4', 'q3']
+Stream: id 20 | k_group 2 | q_n 2 | node0_0_3_1->node0_0_7_0 | period 20.0| deadline 3.408 | size 203 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_2', 'sw_0_1', 'sw_0_0', 'sw_0_7', 'node0_0_7_0'] ['q4', 'q3', 'q4', 'q3', 'q4']
+Stream: id 42 | k_group 2 | q_n 2 | node0_0_6_1->node0_0_12_1 | period 10.0| deadline 3.432 | size 232 | injection delay: 0 ['node0_0_6_1', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'node0_0_12_1'] ['q4', 'q3', 'q4']
+Stream: id 44 | k_group 2 | q_n 2 | node0_0_15_0->node0_0_9_1 | period 10.0| deadline 3.464 | size 262 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_8', 'sw_0_9', 'node0_0_9_1'] ['q4', 'q3', 'q4']
+Stream: id 10 | k_group 2 | q_n 2 | node0_0_13_0->node0_0_1_1 | period 10.0| deadline 3.484 | size 139 | injection delay: 0 ['node0_0_13_0', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'sw_0_0', 'sw_0_1', 'node0_0_1_1'] ['q4', 'q3', 'q4', 'q3', 'q4']
+Stream: id 14 | k_group 2 | q_n 2 | node0_0_3_1->node0_0_5_0 | period 20.0| deadline 3.484 | size 247 | injection delay: 0 ['node0_0_3_1', 'sw_0_3', 'sw_0_4', 'sw_0_5', 'node0_0_5_0'] ['q4', 'q3', 'q4']
+Stream: id 52 | k_group 2 | q_n 2 | node0_0_13_1->node0_0_7_0 | period 20.0| deadline 3.532 | size 284 | injection delay: 0 ['node0_0_13_1', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'node0_0_7_0'] ['q4', 'q3', 'q4']
+
+
+created_graph
+priority_group: 3
+Stream: id 23 | k_group 3 | q_n 2 | node0_0_5_1->node0_0_11_0 | period 5.0| deadline 1.822 | size 259 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_6', 'sw_0_7', 'sw_0_0', 'sw_0_11', 'node0_0_11_0'] ['q2', 'q1', 'q2', 'q1', 'q2']
+Stream: id 55 | k_group 3 | q_n 2 | node0_0_13_1->node0_0_9_1 | period 5.0| deadline 1.89 | size 207 | injection delay: 0 ['node0_0_13_1', 'sw_0_13', 'sw_0_14', 'sw_0_15', 'sw_0_8', 'sw_0_9', 'node0_0_9_1'] ['q2', 'q1', 'q2', 'q1', 'q2']
+Stream: id 48 | k_group 3 | q_n 2 | node0_0_5_1->node0_0_0_0 | period 10.0| deadline 1.892 | size 218 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_6', 'sw_0_7', 'sw_0_0', 'node0_0_0_0'] ['q2', 'q1', 'q2', 'q1']
+Stream: id 27 | k_group 3 | q_n 2 | node0_0_15_1->node0_0_5_0 | period 10.0| deadline 1.908 | size 266 | injection delay: 0 ['node0_0_15_1', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'sw_0_6', 'sw_0_5', 'node0_0_5_0'] ['q2', 'q1', 'q2', 'q1', 'q2', 'q1', 'q2']
+Stream: id 9 | k_group 3 | q_n 2 | node0_0_5_1->node0_0_11_1 | period 2.0| deadline 1.942 | size 280 | injection delay: 0 ['node0_0_5_1', 'sw_0_5', 'sw_0_6', 'sw_0_7', 'sw_0_0', 'sw_0_11', 'node0_0_11_1'] ['q2', 'q1', 'q2', 'q1', 'q2']
+Stream: id 30 | k_group 3 | q_n 2 | node0_0_6_0->node0_0_14_1 | period 10.0| deadline 1.96 | size 179 | injection delay: 0 ['node0_0_6_0', 'sw_0_6', 'sw_0_7', 'sw_0_12', 'sw_0_13', 'sw_0_14', 'node0_0_14_1'] ['q2', 'q1', 'q2', 'q1', 'q2']
+Stream: id 57 | k_group 3 | q_n 2 | node0_0_15_0->node0_0_0_0 | period 5.0| deadline 1.97 | size 184 | injection delay: 0 ['node0_0_15_0', 'sw_0_15', 'sw_0_14', 'sw_0_13', 'sw_0_12', 'sw_0_7', 'sw_0_0', 'node0_0_0_0'] ['q2', 'q1', 'q2', 'q1', 'q2', 'q1']
+Stream: id 12 | k_group 3 | q_n 2 | node0_0_13_1->node0_0_14_0 | period 5.0| deadline 1.974 | size 215 | injection delay: 0 ['node0_0_13_1', 'sw_0_13', 'sw_0_14', 'node0_0_14_0'] ['q2', 'q1']
+Stream: id 49 | k_group 3 | q_n 2 | node0_0_15_1->node0_0_14_0 | period 10.0| deadline 1.996 | size 172 | injection delay: 0 ['node0_0_15_1', 'sw_0_15', 'sw_0_14', 'node0_0_14_0'] ['q2', 'q1']
+
+
+0 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 426
+[ LOG ] : GLOBAL_COUNTER 612
+[ LOG ] : GLOBAL_COUNTER 634
+5 % finished,  running for: 0 (mins), group: 1
+10 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 1918
+15 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+20 % finished,  running for: 0 (mins), group: 1
+25 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 5666
+calculation time:  0.0002
+30 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 5838
+[ LOG ] : GLOBAL_COUNTER 6066
+[ LOG ] : GLOBAL_COUNTER 6532
+35 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 6884
+[ LOG ] : GLOBAL_COUNTER 7078
+calculation time:  0.0002
+calculation time:  0.0003
+40 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 8050
+calculation time:  0.0002
+45 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 8908
+[ LOG ] : GLOBAL_COUNTER 9354
+calculation time:  0.0002
+50 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+calculation time:  0.0002
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 10142
+55 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 10788
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 11292
+calculation time:  0.0002
+60 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 12084
+calculation time:  0.0003
+65 % finished,  running for: 0 (mins), group: 1
+70 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+75 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 15100
+calculation time:  0.0002
+80 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 15916
+calculation time:  0.0002
+[ LOG ] : GLOBAL_COUNTER 16152
+calculation time:  0.0002
+85 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 16786
+[ LOG ] : GLOBAL_COUNTER 16906
+[ LOG ] : GLOBAL_COUNTER 17350
+90 % finished,  running for: 0 (mins), group: 1
+calculation time:  0.0002
+calculation time:  0.0002
+calculation time:  0.0002
+95 % finished,  running for: 0 (mins), group: 1
+[ LOG ] : GLOBAL_COUNTER 19394
+0 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 20216
+5 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+10 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 21530
+calculation time:  0.0001
+15 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 22868
+[ LOG ] : GLOBAL_COUNTER 23290
+20 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 23990
+calculation time:  0.0001
+25 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 24716
+[ LOG ] : GLOBAL_COUNTER 24974
+[ LOG ] : GLOBAL_COUNTER 25042
+calculation time:  0.0001
+30 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 25732
+calculation time:  0.0001
+calculation time:  0.0001
+35 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 26900
+40 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 27828
+calculation time:  0.0001
+45 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 28870
+50 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+55 % finished,  running for: 0 (mins), group: 2
+60 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+calculation time:  0.0001
+65 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 32360
+[ LOG ] : GLOBAL_COUNTER 33032
+70 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 34236
+75 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+80 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 36218
+85 % finished,  running for: 0 (mins), group: 2
+[ LOG ] : GLOBAL_COUNTER 36524
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 36988
+90 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+95 % finished,  running for: 0 (mins), group: 2
+calculation time:  0.0001
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 39030
+0 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 39358
+[ LOG ] : GLOBAL_COUNTER 39828
+5 % finished,  running for: 0 (mins), group: 3
+10 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 41798
+15 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 42442
+calculation time:  0.0001
+20 % finished,  running for: 0 (mins), group: 3
+25 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+30 % finished,  running for: 0 (mins), group: 3
+35 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+calculation time:  0.0001
+40 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+calculation time:  0.0001
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 47372
+[ LOG ] : GLOBAL_COUNTER 47442
+[ LOG ] : GLOBAL_COUNTER 47574
+45 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 48352
+50 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+calculation time:  0.0001
+55 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 50728
+[ LOG ] : GLOBAL_COUNTER 50868
+60 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 51822
+65 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 51968
+[ LOG ] : GLOBAL_COUNTER 52332
+calculation time:  0.0001
+70 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+75 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 54428
+[ LOG ] : GLOBAL_COUNTER 54826
+calculation time:  0.0001
+80 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+85 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 56132
+90 % finished,  running for: 0 (mins), group: 3
+[ LOG ] : GLOBAL_COUNTER 56948
+calculation time:  0.0001
+[ LOG ] : GLOBAL_COUNTER 57588
+[ LOG ] : GLOBAL_COUNTER 57802
+95 % finished,  running for: 0 (mins), group: 3
+calculation time:  0.0001
+calculation time:  0.0001
+current_solution_violates_delay_stream_delay: 19 times
+current_solution_violates_bandwith_on_cycle_link: 0 times
+39.20937499999998
+[{}, {'5->2': 659, '11->13': 431, '8->9': 470, '1->4': 211, '12->14': 913, '5->9': 506, '6->3': 178, '10->11': 384, '7->4': 621, '8->7': 265, '1->0': 414, '2->0': 337, '2->6': 273, '15->14': 236, '2->20': 172, '12->10': 149, '9->5': 147}, {'2->0': 281, '13->3': 431, '9->5': 228, '4->7': 211, '2->6': 378, '14->15': 913, '9->8': 506, '3->23': 178, '11->13': 384, '4->1': 621, '7->4': 265, '0->2': 270, '0->16': 297, '6->29': 273, '9->34': 242, '0->1': 184, '14->12': 236, '10->37': 149, '5->2': 147}, {'0->1': 281, '3->0': 169, '5->2': 228, '7->8': 211, '6->29': 249, '15->6': 913, '8->7': 380, '13->3': 384, '1->0': 621, '4->1': 265, '6->15': 129, '2->6': 417, '8->32': 126, '1->4': 184, '3->23': 262, '12->10': 236}, {'1->4': 281, '0->1': 169, '2->20': 228, '8->32': 211, '6->3': 533, '7->30': 380, '3->0': 384, '0->2': 168, '1->0': 265, '15->14': 129, '6->15': 270, '6->2': 380, '0->3': 453, '4->25': 184, '10->37': 236, '6->29': 147}, {'4->25': 281, '1->4': 169, '3->23': 832, '0->16': 252, '2->6': 168, '0->3': 265, '14->42': 129, '15->14': 270, '0->2': 132, '2->0': 254, '2->5': 126, '3->13': 154}, {'4->24': 169, '6->15': 168, '3->13': 265, '14->43': 270, '2->20': 132, '0->1': 254, '5->9': 126, '13->11': 154}, {'15->14': 168, '13->11': 265, '1->19': 254, '9->34': 126, '11->10': 154}, {'14->42': 168, '11->39': 265, '10->37': 154}, {'11->13': 431, '5->9': 380, '10->11': 384, '12->14': 267, '2->0': 184, '15->14': 236, '12->10': 149}, {'13->3': 431, '9->8': 380, '11->13': 384, '14->15': 267, '0->1': 184, '14->12': 236, '10->37': 149}, {'3->0': 169, '8->7': 380, '13->3': 384, '15->6': 267, '1->4': 184, '3->23': 262, '12->10': 236}, {'0->1': 169, '7->30': 380, '3->0': 384, '6->3': 141, '6->2': 126, '4->25': 184, '10->37': 236}, {'1->4': 169, '0->16': 252, '0->2': 132, '3->23': 141, '2->5': 126}, {'4->24': 169, '2->20': 132, '5->9': 126}, {'9->34': 126}, {}, {'11->13': 431, '5->9': 380, '10->11': 384, '12->14': 267, '2->0': 184, '15->14': 236, '12->10': 149}, {'13->3': 431, '9->8': 380, '11->13': 384, '14->15': 267, '0->1': 184, '14->12': 236, '10->37': 149}, {'3->0': 169, '8->7': 380, '13->3': 384, '15->6': 267, '1->4': 184, '3->23': 262, '12->10': 236}, {'0->1': 169, '7->30': 380, '3->0': 384, '6->3': 141, '6->2': 126, '4->25': 184, '10->37': 236}, {'5->2': 281, '1->4': 380, '8->9': 228, '12->14': 392, '6->3': 178, '0->16': 252, '7->4': 621, '8->7': 265, '0->2': 132, '3->23': 141, '2->0': 153, '2->5': 126, '5->9': 126, '2->20': 172, '9->5': 147}, {'2->0': 281, '4->24': 169, '9->5': 228, '4->7': 211, '14->15': 392, '3->23': 178, '4->1': 621, '7->4': 265, '2->20': 132, '0->16': 153, '5->9': 126, '9->8': 126, '5->2': 147}, {'0->1': 281, '5->2': 228, '7->8': 211, '15->6': 392, '1->0': 621, '4->1': 265, '9->34': 126, '8->32': 126, '2->6': 147}, {'1->4': 281, '2->20': 228, '8->32': 211, '6->3': 392, '0->2': 168, '1->0': 265, '0->3': 453, '6->29': 147}, {'4->25': 281, '11->13': 431, '3->23': 691, '5->9': 380, '10->11': 384, '2->6': 168, '0->3': 265, '12->14': 267, '2->0': 184, '3->13': 154, '15->14': 236, '12->10': 149}, {'13->3': 431, '9->8': 380, '11->13': 384, '6->15': 168, '3->13': 265, '14->15': 267, '0->1': 184, '13->11': 154, '14->12': 236, '10->37': 149}, {'3->0': 169, '8->7': 380, '13->3': 384, '15->14': 168, '13->11': 265, '15->6': 267, '1->4': 184, '11->10': 154, '3->23': 262, '12->10': 236}, {'0->1': 169, '7->30': 380, '3->0': 384, '14->42': 168, '11->39': 265, '6->3': 141, '6->2': 126, '4->25': 184, '10->37': 390}, {'1->4': 169, '0->16': 252, '0->2': 132, '3->23': 141, '2->5': 126}, {'4->24': 169, '2->20': 132, '5->9': 126}, {'9->34': 126}, {}, {'11->13': 431, '5->9': 380, '10->11': 384, '12->14': 267, '2->0': 184, '15->14': 236, '12->10': 149}, {'13->3': 431, '9->8': 380, '11->13': 384, '14->15': 267, '0->1': 184, '14->12': 236, '10->37': 149}, {'3->0': 169, '8->7': 380, '13->3': 384, '15->6': 267, '1->4': 184, '3->23': 262, '12->10': 236}, {'0->1': 169, '7->30': 380, '3->0': 384, '6->3': 141, '6->2': 126, '4->25': 184, '10->37': 236}, {'1->4': 169, '0->16': 252, '0->2': 132, '3->23': 141, '2->5': 126}, {'4->24': 169, '2->20': 132, '5->9': 126}, {'9->34': 126}]
+[{}, {'5->2': 249, '6->3': 178, '2->0': 337, '5->9': 126, '2->6': 273, '8->9': 242, '11->13': 262, '15->14': 236, '2->20': 172, '12->10': 149, '1->0': 144, '9->5': 147}, {'2->6': 249, '3->23': 178, '0->16': 297, '9->8': 126, '6->29': 273, '9->34': 242, '0->1': 184, '13->3': 262, '14->12': 236, '10->37': 149, '5->2': 147}, {'6->29': 249, '8->32': 126, '1->4': 184, '3->23': 262, '12->10': 236, '2->6': 147}, {'4->25': 184, '10->37': 236, '6->29': 147}, {}, {}, {}, {}, {'2->0': 184, '11->13': 262, '15->14': 236, '12->10': 149}, {'0->1': 184, '13->3': 262, '14->12': 236, '10->37': 149}, {'1->4': 184, '3->23': 262, '12->10': 236}, {'4->25': 184, '10->37': 236}, {}, {}, {}, {}, {'2->0': 184, '11->13': 262, '15->14': 236, '12->10': 149}, {'0->1': 184, '13->3': 262, '14->12': 236, '10->37': 149}, {'1->4': 184, '3->23': 262, '12->10': 236}, {'4->25': 184, '10->37': 236}, {'6->3': 178, '2->0': 153, '5->9': 126, '2->20': 172, '9->5': 147}, {'3->23': 178, '0->16': 153, '9->8': 126, '5->2': 147}, {'8->32': 126, '2->6': 147}, {'6->29': 147}, {'2->0': 184, '11->13': 262, '15->14': 236, '12->10': 149}, {'0->1': 184, '13->3': 262, '14->12': 236, '10->37': 149}, {'1->4': 184, '3->23': 262, '12->10': 236}, {'4->25': 184, '10->37': 236}, {}, {}, {}, {}, {'2->0': 184, '11->13': 262, '15->14': 236, '12->10': 149}, {'0->1': 184, '13->3': 262, '14->12': 236, '10->37': 149}, {'1->4': 184, '3->23': 262, '12->10': 236}, {'4->25': 184, '10->37': 236}, {}, {}, {}] [{}, {'5->2': [[18, '249']], '6->3': [[22, '178']], '2->0': [[26, '153'], [24, '184']], '5->9': [[25, '126']], '2->6': [[43, '273']], '8->9': [[7, '242']], '11->13': [[11, '262']], '15->14': [[54, '236']], '2->20': [[8, '172']], '12->10': [[46, '149']], '1->0': [[34, '144']], '9->5': [[41, '147']]}, {'2->6': [[18, '249']], '3->23': [[22, '178']], '0->16': [[26, '153'], [34, '144']], '9->8': [[25, '126']], '6->29': [[43, '273']], '9->34': [[7, '242']], '0->1': [[24, '184']], '13->3': [[11, '262']], '14->12': [[54, '236']], '10->37': [[46, '149']], '5->2': [[41, '147']]}, {'6->29': [[18, '249']], '8->32': [[25, '126']], '1->4': [[24, '184']], '3->23': [[11, '262']], '12->10': [[54, '236']], '2->6': [[41, '147']]}, {'4->25': [[24, '184']], '10->37': [[54, '236']], '6->29': [[41, '147']]}, {}, {}, {}, {}, {'2->0': [[24, '184']], '11->13': [[11, '262']], '15->14': [[54, '236']], '12->10': [[46, '149']]}, {'0->1': [[24, '184']], '13->3': [[11, '262']], '14->12': [[54, '236']], '10->37': [[46, '149']]}, {'1->4': [[24, '184']], '3->23': [[11, '262']], '12->10': [[54, '236']]}, {'4->25': [[24, '184']], '10->37': [[54, '236']]}, {}, {}, {}, {}, {'2->0': [[24, '184']], '11->13': [[11, '262']], '15->14': [[54, '236']], '12->10': [[46, '149']]}, {'0->1': [[24, '184']], '13->3': [[11, '262']], '14->12': [[54, '236']], '10->37': [[46, '149']]}, {'1->4': [[24, '184']], '3->23': [[11, '262']], '12->10': [[54, '236']]}, {'4->25': [[24, '184']], '10->37': [[54, '236']]}, {'6->3': [[22, '178']], '2->0': [[26, '153']], '5->9': [[25, '126']], '2->20': [[8, '172']], '9->5': [[41, '147']]}, {'3->23': [[22, '178']], '0->16': [[26, '153']], '9->8': [[25, '126']], '5->2': [[41, '147']]}, {'8->32': [[25, '126']], '2->6': [[41, '147']]}, {'6->29': [[41, '147']]}, {'2->0': [[24, '184']], '11->13': [[11, '262']], '15->14': [[54, '236']], '12->10': [[46, '149']]}, {'0->1': [[24, '184']], '13->3': [[11, '262']], '14->12': [[54, '236']], '10->37': [[46, '149']]}, {'1->4': [[24, '184']], '3->23': [[11, '262']], '12->10': [[54, '236']]}, {'4->25': [[24, '184']], '10->37': [[54, '236']]}, {}, {}, {}, {}, {'2->0': [[24, '184']], '11->13': [[11, '262']], '15->14': [[54, '236']], '12->10': [[46, '149']]}, {'0->1': [[24, '184']], '13->3': [[11, '262']], '14->12': [[54, '236']], '10->37': [[46, '149']]}, {'1->4': [[24, '184']], '3->23': [[11, '262']], '12->10': [[54, '236']]}, {'4->25': [[24, '184']], '10->37': [[54, '236']]}, {}, {}, {}]
+[]
+[]
+Scheduled_percentage (41.0, '%', 'unscheduled', 19, 'total', 32, 'e2e too large', [39, 17, 0, 47, 40, 50, 56, 21, 1, 31, 2, 4, 33, 28, 36, 19, 15, 32, 37], 'bandwidth violation', [])
+done
+stop time is in secs 1711319610.2092257
+total runtime is in secs 17.57169246673584
+current_solution_violates_delay_stream_delay: 15 times
+current_solution_violates_bandwith_on_cycle_link: 0 times
+31.54901960784313
+[{}, {'9->8': 925, '2->0': 174, '10->11': 177, '1->0': 414, '5->2': 754, '7->4': 209, '7->8': 450, '12->10': 262, '15->6': 139}, {'8->32': 491, '0->1': 174, '11->13': 177, '0->2': 414, '2->6': 515, '4->1': 209, '8->7': 434, '2->0': 239, '8->9': 450, '10->11': 262, '6->2': 139}, {'1->4': 174, '13->3': 177, '2->20': 185, '6->29': 515, '1->0': 209, '7->30': 290, '2->6': 229, '0->16': 239, '7->4': 144, '9->5': 203, '11->39': 262, '2->0': 139, '9->34': 247}, {'4->25': 174, '3->0': 177, '0->2': 209, '6->15': 229, '4->24': 144, '5->2': 203, '0->1': 139}, {'10->11': 177, '0->17': 177, '2->20': 412, '9->8': 290, '1->0': 229, '15->14': 229, '1->19': 139}, {'11->13': 177, '8->7': 290, '0->2': 229, '14->42': 229}, {'13->3': 177, '7->30': 290, '2->6': 229}, {'3->0': 177, '6->15': 229}, {'10->11': 177, '0->17': 177, '9->8': 290, '1->0': 229, '15->14': 229}, {'11->13': 177, '8->7': 290, '0->2': 229, '14->42': 229}, {'2->0': 174, '13->3': 177, '1->0': 185, '5->2': 754, '7->4': 209, '7->30': 290, '9->8': 204, '2->6': 229, '12->10': 262, '15->6': 139}, {'0->1': 174, '3->0': 177, '0->2': 185, '2->6': 515, '4->1': 209, '8->32': 204, '6->15': 229, '2->0': 239, '10->11': 262, '6->2': 139}, {'1->4': 174, '10->11': 177, '0->17': 177, '2->20': 185, '6->29': 515, '1->0': 438, '9->8': 290, '15->14': 229, '0->16': 239, '11->39': 262, '2->0': 139}, {'4->25': 174, '11->13': 177, '0->2': 438, '8->7': 290, '14->42': 229, '0->1': 139}, {'13->3': 177, '2->20': 209, '7->30': 290, '2->6': 229, '1->19': 139}, {'3->0': 177, '6->15': 229}, {'10->11': 177, '0->17': 177, '9->8': 290, '1->0': 229, '15->14': 229}, {'11->13': 177, '8->7': 290, '0->2': 229, '14->42': 229}, {'13->3': 177, '7->30': 290, '2->6': 229}]
+[{}, {'9->8': 491}, {'8->32': 491}, {}, {}, {}, {}, {}, {}, {}, {}, {'9->8': 204}, {'8->32': 204}, {}, {}, {}, {}, {}, {}, {}] [{}, {'9->8': [[38, '287'], [53, '204']]}, {'8->32': [[38, '287'], [53, '204']]}, {}, {}, {}, {}, {}, {}, {}, {}, {'9->8': [[53, '204']]}, {'8->32': [[53, '204']]}, {}, {}, {}, {}, {}, {}, {}]
+[]
+[]
+Scheduled_percentage (12.0, '%', 'unscheduled', 15, 'total', 17, 'e2e too large', [5, 6, 16, 13, 3, 51, 29, 35, 45, 20, 42, 44, 10, 14, 52], 'bandwidth violation', [])
+done
+stop time is in secs 1711319610.228487
+total runtime is in secs 17.590953826904297
+current_solution_violates_delay_stream_delay: 9 times
+current_solution_violates_bandwith_on_cycle_link: 0 times
+23.55555555555555
+[{}, {'9->5': 757, '15->14': 422, '12->14': 450, '5->2': 179}, {'5->2': 757, '14->12': 207, '14->15': 450, '2->6': 179, '14->42': 215}, {'2->6': 259, '12->10': 207, '2->0': 498, '15->6': 450, '9->5': 280, '6->15': 179}, {'6->3': 443, '10->11': 207, '0->16': 218, '6->2': 266, '5->2': 280, '0->3': 280, '15->14': 179}, {'3->22': 259, '11->39': 207, '2->5': 266, '9->5': 280, '2->0': 280, '3->23': 280, '14->43': 179, '3->0': 184}, {'9->5': 259, '15->14': 422, '5->9': 266, '5->2': 280, '0->3': 280, '12->14': 184, '0->16': 184}, {'5->2': 259, '14->12': 207, '9->34': 266, '9->5': 280, '2->0': 280, '3->23': 280, '14->15': 184, '14->42': 215}, {'2->6': 259, '12->10': 207, '5->2': 280, '0->3': 280, '15->6': 184}, {'6->3': 443, '10->11': 207, '9->5': 280, '2->0': 280, '3->23': 280}, {'3->22': 259, '11->39': 207, '5->2': 280, '0->3': 280, '3->0': 184}, {'9->5': 757, '15->14': 422, '12->14': 450, '2->0': 280, '3->23': 280, '5->2': 179, '0->16': 184}, {'5->2': 757, '14->12': 207, '14->15': 450, '0->3': 280, '2->6': 179, '14->42': 215}, {'2->6': 259, '12->10': 207, '2->0': 498, '15->6': 450, '9->5': 280, '3->23': 280, '6->15': 179}, {'6->3': 443, '10->11': 207, '0->16': 218, '6->2': 266, '5->2': 280, '0->3': 280, '15->14': 179}, {'3->22': 259, '11->39': 207, '2->5': 266, '9->5': 280, '2->0': 280, '3->23': 280, '14->43': 179, '3->0': 184}, {'9->5': 259, '15->14': 422, '5->9': 266, '5->2': 280, '0->3': 280, '12->14': 184, '0->16': 184}, {'5->2': 259, '14->12': 207, '9->34': 266, '9->5': 280, '2->0': 280, '3->23': 280, '14->15': 184, '14->42': 215}, {'2->6': 259, '12->10': 207, '5->2': 280, '0->3': 280, '15->6': 184}, {'6->3': 443, '10->11': 207, '9->5': 280, '2->0': 280, '3->23': 280}]
+[{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}] [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+[]
+[]
+Scheduled_percentage (0.0, '%', 'unscheduled', 9, 'total', 9, 'e2e too large', [23, 55, 48, 27, 9, 30, 57, 12, 49], 'bandwidth violation', [])
+done
+stop time is in secs 1711319610.248459
+total runtime is in secs 17.610925912857056
+
+Process finished with exit code 0
